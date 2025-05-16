@@ -8,7 +8,10 @@
 
 `Application Type:` dapp (DeFi) - Progressive Web Application (PWA)
 
-`Logo:` <img src=# />
+`Logo:` 
+
+<img src="./images/applogo.png" style="width: 35px; height: auto;" />
+
 
 # System Setup
 `Note:` This section will discuss the steps to setup the FlowPay Project in detail. 
@@ -28,6 +31,10 @@
 * ngrok - v3.22.1 (Optional - for mobile and computer connection testing)
 
 ## ThirdWeb
+
+Step 1: Register to ThirdWeb with Metamask EOA
+
+Step 2: Create a New Project
 
 ## Front-End
 
